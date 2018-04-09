@@ -78,7 +78,7 @@
     },
     "vmExtensionScriptLocation": {
       "type": "string",
-      "defaultValue": "https://raw.githubusercontent.com/OrangeNetworks/ASDK-Scripts/master/Templates/appservice-fileserver-standalone/",
+      "defaultValue": "https://raw.githubusercontent.com/OrangeNetworks/ASDK-PostDeploymentTemplates/master/Templates/appservice-fileserver-standalone/",
       "metadata": {
         "description": "File Server extension script Url"
       }

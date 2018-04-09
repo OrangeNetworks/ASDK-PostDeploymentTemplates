@@ -30,7 +30,7 @@
             "value": null
         },
       "vmExtensionScriptLocation": {
-        "value": "https://raw.githubusercontent.com/OrangeNetworks/ASDK-Scripts/master/Templates/appservice-fileserver-standalone/"
+        "value": "https://raw.githubusercontent.com/OrangeNetworks/ASDK-PostDeploymentTemplates/master/Templates/appservice-fileserver-standalone/"
       }
     }
 }

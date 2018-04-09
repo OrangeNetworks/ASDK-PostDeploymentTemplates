@@ -35,7 +35,7 @@
             "metadata": {
                 "description": "The location of resources that the script is dependent on such as linked templates and DSC modules"
             },
-            "defaultValue": "https://raw.githubusercontent.com/OrangeNetworks/ASDK-Scripts/master/Templates/sql-2014-standalone"
+            "defaultValue": "https://raw.githubusercontent.com/OrangeNetworks/ASDK-PostDeploymentTemplates/master/Templates/sql-2014-standalone"
 
         },
         "vmSize": {
